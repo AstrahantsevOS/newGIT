@@ -5,3 +5,5 @@ End
 
 
 perenos v new branch
+
+neponimau po4emu v repositorii tolko 1 branch
