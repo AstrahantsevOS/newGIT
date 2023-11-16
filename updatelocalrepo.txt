@@ -1,1 +1,3 @@
 probuem obnovit local repo
+
+dobavil dannie
